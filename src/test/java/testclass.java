@@ -11,6 +11,6 @@ public class testclass {
 
     @Test
     public void testAdd2() {
-        assertEquals(43, Integer.sum(19, 23));
+        assertEquals(42, Integer.sum(19, 23));
     }
 }
