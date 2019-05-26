@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f48d1b-fca9-403e-bdfa-fbb605ae19a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/real.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/4.10.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/out/production/classes/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/out/production/classes/Control.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/out/production/classes/GUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/out/production/classes/StopWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/out/production/classes/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/out/production/classes/Watch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/Alarm_Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/RR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/Stop_Watch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Function/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/GUI/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Manage/Change_Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/Manage/Select_Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/System_Support/Buzzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/System_Support/Random_Number_Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/System_Support/System_Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/java/System_Support/System_Clock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/Alarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/Alarm_Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/Dice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/RR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/Stop_Watch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Function/Timer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/GUI/GUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Manage/Change_Mode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/Manage/Select_Mode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/System_Support/Buzzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/System_Support/Random_Number_Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/System_Support/System_Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/System_Support/System_Clock2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/production/Watch/test/Watch/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/production/Watch/test/Watch/Watch/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Function/AlarmTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Function/DiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Function/RRTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Function/TimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Function/TimerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/GUI/GUITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Manage/Change_ModeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Manage/Select_ModeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/System_Support/Random_Number_GeneratorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/System_Support/System_ClockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/src/test/Watch/Watch/Watch/Watch/Watch/Watch/Watch/Watch/META-INF/Watch.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Function/AlarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Function/DiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Function/RRTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Function/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Function/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/GUI/GUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Manage/Change_ModeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/Manage/Select_ModeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/System_Support/Random_Number_GeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMA/test/System_Support/System_ClockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SMA/src/main/java/Function/Alarm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/mainclass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testclass.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="237" />
+    <option name="y" value="23" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="real" type="b2602c69:ProjectViewProjectNode" />
+              <item name="real" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="real" type="b2602c69:ProjectViewProjectNode" />
+              <item name="real" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554215501354" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SMA" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../SMA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\이재승\IdeaProjects\real" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mainclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainclass" />
+      <module name="cbvs.sdf.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainclass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f48d1b-fca9-403e-bdfa-fbb605ae19a5" name="Default Changelist" comment="" />
+      <created>1554211245903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554211245903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="190" y="19" width="1512" height="768" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32874015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32874015" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32913387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mainclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMA/test/Function/TimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMA/src/main/java/Function/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>real</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
