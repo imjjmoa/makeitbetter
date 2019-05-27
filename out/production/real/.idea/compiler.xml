@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="SMA_Team2_Watch.Watch.main" target="1.8" />
+      <module name="SMA_Team2_Watch.Watch.test" target="1.8" />
+      <module name="Watch.main" target="1.8" />
+      <module name="Watch.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
