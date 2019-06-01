@@ -1,122 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="team2:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f48d1b-fca9-403e-bdfa-fbb605ae19a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/real.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/real.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/team2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Alarm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Alarm_Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Dice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/RR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Stop_Watch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Function/Timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/GUI/GUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/GUI/GUI$MyActionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/GUI/GUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Manage/Change_Mode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/Manage/Select_Mode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/System_Support/Buzzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/System_Support/Random_Number_Generator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/System_Support/System_Clock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/main/System_Support/System_Clock2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Function/AlarmTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Function/DiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Function/RRTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Function/TimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Function/TimerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/GUI/GUITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Manage/Change_ModeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/Manage/Select_ModeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/System_Support/Random_Number_GeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/classes/java/test/System_Support/System_ClockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Function.AlarmTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Function.DiceTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Function.RRTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Function.TimeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Function.TimerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/GUI.GUITest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Manage.Change_ModeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/Manage.Select_ModeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/System_Support.Random_Number_GeneratorTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/classes/System_Support.System_ClockTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/packages/Function.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/packages/GUI.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/packages/Manage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/reports/tests/test/packages/System_Support.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Function.AlarmTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Function.DiceTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Function.RRTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Function.TimeTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Function.TimerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-GUI.GUITest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Manage.Change_ModeTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-Manage.Select_ModeTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-System_Support.Random_Number_GeneratorTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/TEST-System_Support.System_ClockTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Alarm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Alarm_Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/RR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Stop_Watch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Timer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/GUI/GUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Manage/Change_Mode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Manage/Select_Mode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/System_Support/Buzzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/System_Support/Random_Number_Generator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/System_Support/System_Clock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/System_Support/System_Clock2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/DiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/RRTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/TimeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/TimerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/GUI/GUITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Manage/Change_ModeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Manage/Select_ModeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/System_Support/Random_Number_GeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/System_Support/System_ClockTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -161,12 +55,21 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Function/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -193,12 +96,13 @@
         <option value="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest2.java" />
         <option value="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest.java" />
         <option value="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="235" />
-    <option name="y" value="21" />
+    <option name="y" value="20" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
@@ -207,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,6 +122,24 @@
             <path>
               <item name="team2" type="b2602c69:ProjectViewProjectNode" />
               <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="team2_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,23 +152,13 @@
               <item name="team2" type="b2602c69:ProjectViewProjectNode" />
               <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Function" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,10 +171,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/SMA/src/test" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../SMA" />
   </component>
   <component name="RecentsManager">
@@ -290,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JAR Application.team2.jar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -313,8 +227,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="team2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/team2_jar/team2.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.team2.jar" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.mainclass" />
       </list>
@@ -338,13 +257,20 @@
       <option name="project" value="LOCAL" />
       <updated>1558939844402</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="무조건 돌아가겠죵?">
+      <created>1558942918134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558942918134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25771812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26912752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,7 +302,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="정리" />
+    <MESSAGE value="무조건 돌아가겠죵?" />
+    <option name="LAST_COMMIT_MESSAGE" value="무조건 돌아가겠죵?" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/testclass.java" />
@@ -388,71 +315,16 @@
     <entry file="file://$PROJECT_DIR$/SMA/src/test/Watch/Function/AlarmTest.class" />
     <entry file="file://$PROJECT_DIR$/SMA/test/Function/AlarmTest.java" />
     <entry file="file://$PROJECT_DIR$/SMA/src/main/java/Function/Alarm.java" />
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Alarm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/DiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Manage/Change_Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watch/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Manage/Select_ModeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/System_Support/System_ClockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aa/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Alarm.java" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest2.java" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest.java" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/DiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Manage/Change_Mode.java" />
+    <entry file="file://$PROJECT_DIR$/Watch/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Manage/Select_ModeTest.java" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Main.java" />
+    <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/System_Support/System_ClockTest.java" />
+    <entry file="file://$PROJECT_DIR$/aa/build.gradle" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -460,10 +332,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Function/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -473,10 +359,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>team2:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -519,12 +407,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>aa</last-edited>
+          <last-edited>Watch</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
