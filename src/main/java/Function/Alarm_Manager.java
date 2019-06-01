@@ -1,14 +1,14 @@
 package Function;
 
 public class Alarm_Manager {
-    private Function.Alarm alarm[] = new Function.Alarm[5];
+    private Alarm alarm[] = new Alarm[5];
     private int isset;
     private int[] dis;
     private int armindex;
 
     public Alarm_Manager(Time t) {
         for (int i = 0; i < 5; i++) {
-            alarm[i] = new Function.Alarm(t);
+            alarm[i] = new Alarm(t);
         }
         isset = 8;
         armindex = 0;
@@ -19,8 +19,7 @@ public class Alarm_Manager {
         if (isset == 8) {                       //셋 모드가 아닐 때
             if (check == 5)                    //OK가 2초 눌리면 셋모드가 됨
             {
-                isset = 7;
-                dis[6] = isset;
+                enterSetMode();
             } else                            //아니면 알람 선택
             {
                 selectAlarm(check);
@@ -28,14 +27,20 @@ public class Alarm_Manager {
         } else {                               //셋 모드일 때
             if (check == 5)                    //OK가 2초 눌리면 선택 모드가 됨
             {
-                isset = 8;
-                alarm[armindex].activate();
+                exitSetMode();
             } else {
                 setAlarm(check);
             }
         }
     }
-
+    private void enterSetMode(){
+        isset = 7;
+        dis[6] = isset;
+    }
+    private void exitSetMode(){
+        isset = 8;
+        alarm[armindex].activate();
+    }
     private void selectAlarm(int check) {
         if (check == 1) up();
         if (check == 2) down();

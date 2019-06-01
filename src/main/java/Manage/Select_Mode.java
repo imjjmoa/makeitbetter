@@ -53,8 +53,11 @@ public class Select_Mode {
         dis[3] = count;
         dis[4] = 0;
         dis[5] = 0;
-        if(mode[now]==0)dis[6] = 10; //off
-        else if(mode[now]==1)dis[6] = 9; //on
+        if (mode[now] == 0) dis[6] = 10; //off
+        else if (mode[now] == 1) dis[6] = 9; //on
         return dis;
+    }
+    public int getCount(){
+        return count;
     }
 }

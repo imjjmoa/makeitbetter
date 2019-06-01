@@ -30,8 +30,6 @@ public class Alarm {
     }
     private int[] getGapTime(int[] t1, int[] t2) //t1 이 알람설정된시간 t2가 현재시간
     {
-        System.out.println(t1[0]+" "+t1[1]+" "+t1[2]);
-        System.out.println(t2[3]+" "+t2[4]+" "+t2[5]);
         int ret[] = new int[3];
         int tmp1,tmp2,tmp;
         tmp1 = 3600*t1[0]+60*t1[1]+t1[0];
@@ -43,7 +41,6 @@ public class Alarm {
         ret[1] = tmp/60;
         tmp=tmp%60;
         ret[2] = tmp;
-        System.out.println(ret[0]+" "+ret[1]+" "+ret[2]);
         return ret;
 
     }
@@ -58,7 +55,6 @@ public class Alarm {
         }
         else //알람 on
         {
-            System.out.println(10000);
             state=9;
             startTime = t.getSystemClock(); //현재시간 가져옴
             gapTime = getGapTime(time, startTime); //알람설정된 시간과
@@ -131,8 +127,5 @@ public class Alarm {
     public void setBuzzer(Buzzer b) //system_clock에서 버저가 울리면 그때 생성된 buzzer객체를 timer 객체에 있는 buzzer함수에 설정해주는거
     {
         buzzer = b;
-    }
-    public int getstate(){
-        return state;
     }
 }

@@ -8,9 +8,6 @@ import javax.swing.*;
 public class GUI extends JFrame{
     private String [] md={"TIM","STW","ALM","TMR","DIC","RRT"};                   // md=모드이름, d3=요일
     private String [] d3={"MON","TUS","WED","TUR","FRY","SAT","SUN","SET","---","ON","OFF"};
-    //private int tm1=0,tm2=0,tm3=0,d1=1,d2=1;          // tm1=왼쪽 숫자,tm2=중간 숫자,tm3=오른쪽숫자,d1=월,d2=일
-    //public int md_num=0;
-    //private int d3_num=0;
     public long btn_press=0,btn_release=0;
     public long btn_time=0;
 

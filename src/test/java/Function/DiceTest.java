@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 
 public class DiceTest {
 
-
+/*
     @Test
     public void setDice() {
         Dice test = new Dice();
@@ -38,5 +38,5 @@ public class DiceTest {
         int [] dis = new int[] {4,0,0,disNum,0,0,isSet};
 
         assertArrayEquals(dis,test.getDis());
-    }
+    }*/
 }

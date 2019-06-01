@@ -83,11 +83,14 @@ public class Stop_Watch {
                 Record();
             } else                        //아무것도 안누르면 시간 보여줌
             {
-                hour = sc.getClock()[3];
-                minute = sc.getClock()[4];
-                sec = sc.getClock()[5];
+                showSW();
             }
         }
+    }
+    private void showSW(){
+        hour = sc.getClock()[3];
+        minute = sc.getClock()[4];
+        sec = sc.getClock()[5];
     }
     private  void showRecord(){
         rec = getRecord();

@@ -73,7 +73,7 @@ public class Change_Mode extends GUI {
                 timer.setBuzzerFlag();
                 input=0;
             }
-            if(input==4)nextMode();
+            if(input==4&&select_mode.getCount()==4)nextMode();
             if(input==6){
                 System.out.println(10);
                 mode=6;
