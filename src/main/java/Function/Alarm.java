@@ -63,7 +63,7 @@ public class Alarm {
             thread.start();
         }
     }
-    public void setThis(int check){
+    public void changeAlarm(int check){
         if(check==1)                    //현재 커서 값 증가
         {
             if(cursor!=0) {
@@ -111,21 +111,25 @@ public class Alarm {
             }
         }
     }
-    public int isbuzzer() //위에서 buzzerFlag 값을 가져가는 getter
+    /*public int isbuzzer() //위에서 buzzerFlag 값을 가져가는 getter
     {
         return buzzerFlag;
-    }
+    }*/
     public void setBuzzerFlag(int b) //위에서 buzzer끄고 timer 객체의 buzzerflag를 0으로 만들어줄때 써야됨
     {
         buzzerFlag = b;
     }
 
-    public Buzzer getBuzzer() //위에서 buzzer 가져가는함수
+   /* public Buzzer getBuzzer() //위에서 buzzer 가져가는함수
     {
         return buzzer;
-    }
+    }*/
     public void setBuzzer(Buzzer b) //system_clock에서 버저가 울리면 그때 생성된 buzzer객체를 timer 객체에 있는 buzzer함수에 설정해주는거
     {
         buzzer = b;
+    }
+    public void stopAlarm()
+    {
+        buzzer.stopBuzzer();
     }
 }

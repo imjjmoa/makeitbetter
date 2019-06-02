@@ -50,8 +50,8 @@ public class Alarm_Manager {
         dis = alarm[armindex].getInform();
     }
 
-    private void setAlarm(int check) {
-        alarm[armindex].setThis(check);
+    public void setAlarm(int check) {
+        alarm[armindex].changeAlarm(check);
         dis = alarm[armindex].getInform();
         dis[6] = isset;
     }

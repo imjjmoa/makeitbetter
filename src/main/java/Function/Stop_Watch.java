@@ -71,7 +71,7 @@ public class Stop_Watch {
             }
             if (check == 3)           //기록 확인
             {
-                showRecord();
+                showRecords();
             }
         } else                            //SW가 돌고 있을 때
         {
@@ -92,7 +92,7 @@ public class Stop_Watch {
         minute = sc.getClock()[4];
         sec = sc.getClock()[5];
     }
-    private  void showRecord(){
+    private  void showRecords(){
         rec = getRecord();
         hour = rec[0];
         minute = rec[1];

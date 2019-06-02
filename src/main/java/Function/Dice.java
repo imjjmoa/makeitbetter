@@ -42,11 +42,11 @@ public class Dice {
         disNum = 0;
     }
     private void setDice(int check) {
-        if (check == 1 || check == 2) changeDiceNum(); // up이나 down버튼 누르면 다이스 개수 변경
+        if (check == 1 || check == 2) changeDice(); // up이나 down버튼 누르면 다이스 개수 변경
         disNum = diceNum;
     }
 
-    private void changeDiceNum() {
+    private void changeDice() {
         if (diceNum == 1) {
             diceNum++;
             random.setModeNum(12);

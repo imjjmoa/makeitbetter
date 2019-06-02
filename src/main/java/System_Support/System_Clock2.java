@@ -6,7 +6,7 @@ public class System_Clock2 implements Runnable {
     private int minute;
     private int sec;
     private int flag;
-    private Buzzer buzzer;
+    public Buzzer buzzer;
     private Timer timer;
     private Alarm alarm;
     private int sflag;

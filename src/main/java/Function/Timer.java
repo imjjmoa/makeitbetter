@@ -38,7 +38,7 @@ public class Timer
                 enterSetMode();
             }
             else  {
-                setMode(input);
+                changeTimer(input);
             }
         }
         else {
@@ -65,7 +65,7 @@ public class Timer
         isSet=7;
         setNow=0;
     }
-    private void setMode(int input){
+    private void changeTimer(int input){
         if(setNow==0) {
             if(input==1)setHour=(setHour+1)%24;
             else if(input==2)setHour=(setHour+23)%24;
@@ -90,6 +90,7 @@ public class Timer
     {
         isRun=0;
         buzzerFlag=0;
+        buzzer.stopBuzzer();
         sc = new System_Clock2(setHour, setMinute, setSec,this);
         updateTimer();
     }

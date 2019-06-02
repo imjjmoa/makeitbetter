@@ -45,7 +45,7 @@ public class Time {
                 exitSetMode();
             }
             else{
-                setMode(input);
+                timesetMode(input);
             }
         }
     }
@@ -57,7 +57,7 @@ public class Time {
         setTime();
         isSet = 8;
     }
-    private void setMode(int input){
+    private void timesetMode(int input){
         if(setNow==0){
             if(input==1) month = (month%12)+1; // up이면 월 증가;
             else if(input==2) month = ((month+10)%12)+1; // down이면 월 감소;
