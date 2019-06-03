@@ -60,7 +60,7 @@ public class Change_Mode extends GUI {
             }
             input=0;
             try {
-                Thread.sleep(100);
+                Thread.sleep(1);
                 repaint();
             } catch (InterruptedException e) {
             }

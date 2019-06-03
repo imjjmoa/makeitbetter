@@ -1,19 +1,26 @@
 package GUI;
 
 import java.awt.*;
+import java.awt.Image;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.awt.image.BufferedImage;
 import javax.swing.*;
 
 public class GUI extends JFrame{
     private String [] md={"TIM","STW","ALM","TMR","DIC","RRT"};                   // md=모드이름, d3=요일
     private String [] d3={"MON","TUS","WED","TUR","FRY","SAT","SUN","SET","---","ON","OFF"};
+
+    Font font=new Font("digital-7",Font.BOLD,40);
+
     public long btn_press=0,btn_release=0;
     public long btn_time=0;
 
     public int btn_input=0;
     public int btn_temp=0;
 
+    ImageIcon img;
+    JLabel image;
     private JButton ok=new JButton("OK");
     private JButton menu=new JButton("MENU");
     private JButton up=new JButton("UP");
@@ -25,10 +32,14 @@ public class GUI extends JFrame{
 
     public GUI(){
 
+
+
+
         setLayout();
         setButton();
         setLabel();
 
+        setVisible(true);
     }
     private class MyActionListener implements MouseListener {
 
@@ -87,14 +98,14 @@ public class GUI extends JFrame{
         this.up.addMouseListener(listener);
         this.down.addMouseListener(listener);
 
-        this.ok.setSize(80,80);
-        this.ok.setLocation(0,0);
-        this.menu.setSize(80,80);
-        this.menu.setLocation(0,520);
-        this. up.setSize(80,80);
-        this.up.setLocation(520,0);
-        this.down.setSize(80,80);
-        this.down.setLocation(520,520);
+        this.ok.setSize(80,48);
+        this.ok.setLocation(65,185);
+        this.menu.setSize(80,48);
+        this.menu.setLocation(65,336);
+        this. up.setSize(80,48);
+        this.up.setLocation(470,187);
+        this.down.setSize(80,48);
+        this.down.setLocation(470,338);
 
         add(this.ok);
         add(this.menu);
@@ -106,26 +117,33 @@ public class GUI extends JFrame{
         setSize(618,647);
         setLayout(null);
         setLocationRelativeTo(null);
+        ImageIcon img=new ImageIcon("watch.png");
+        image=new JLabel(img);
+        image.setBounds(145,157,img.getIconWidth(),img.getIconHeight());
+        add(image);
+
         setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
     }
     private void setLabel(){
 
-
+        this.mode.setFont(font);
         this.mode.setOpaque(true);
         this.mode.setBackground(new Color(0,0,0,0));
-        this.mode.setBounds(250,230,300,20);
+        this.mode.setBounds(230,230,180,40);
         this.mode.setForeground(Color.black);
 
+        this.time.setFont(font);
         this.time.setOpaque(true);
         this.time.setBackground(new Color(0,0,0,0));
-        this.time.setBounds(250,250,300,20);
+        this.time.setBounds(230,260,180,40);
         this.time.setForeground(Color.black);
 
+        this.day.setFont(font);
         this.day.setOpaque(true);
         this.day.setBackground(new Color(0,0,0,0));
-        this.day.setBounds(250,270,300,20);
+        this.day.setBounds(230,290,180,40);
         this.day.setForeground(Color.black);
     }
 
