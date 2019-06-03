@@ -32,14 +32,10 @@ public class GUI extends JFrame{
 
     public GUI(){
 
-
-
-
         setLayout();
         setButton();
         setLabel();
 
-        setVisible(true);
     }
     private class MyActionListener implements MouseListener {
 
