@@ -79,7 +79,6 @@ public class System_Clock2 implements Runnable {
                         e.printStackTrace();
                     }
                     sec--;
-                    System.out.println(hour+" "+minute+" "+sec);
                     if (sec == -1) {
                         minute--;
                         sec = 59;

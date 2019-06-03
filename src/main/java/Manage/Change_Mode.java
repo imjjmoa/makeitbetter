@@ -73,9 +73,16 @@ public class Change_Mode extends GUI {
                 timer.setBuzzerFlag();
                 input=0;
             }
+            if(input!=0){
+                for(int i=0;i<5;i++){
+                    if(alarm_manager.getAlarm(i).getBuzzerFlag()==1){
+                        alarm_manager.getAlarm(i).stopAlarm();
+                        input=0;
+                    }
+                }
+            }
             if(input==4&&select_mode.getCount()==4)nextMode();
             if(input==6){
-                System.out.println(10);
                 mode=6;
                 select_mode.setMode();
             }

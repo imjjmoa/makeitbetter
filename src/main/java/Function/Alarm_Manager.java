@@ -70,7 +70,9 @@ public class Alarm_Manager {
         else
             armindex = 4;
     }
-
+    public Alarm getAlarm(int a){
+        return alarm[a];
+    }
     public int[] getDis() {
         return dis;
     }

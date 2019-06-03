@@ -120,16 +120,20 @@ public class Alarm {
         buzzerFlag = b;
     }
 
-   /* public Buzzer getBuzzer() //위에서 buzzer 가져가는함수
-    {
-        return buzzer;
-    }*/
+    /* public Buzzer getBuzzer() //위에서 buzzer 가져가는함수
+     {
+         return buzzer;
+     }*/
     public void setBuzzer(Buzzer b) //system_clock에서 버저가 울리면 그때 생성된 buzzer객체를 timer 객체에 있는 buzzer함수에 설정해주는거
     {
         buzzer = b;
     }
+    public int getBuzzerFlag(){
+        return buzzerFlag;
+    }
     public void stopAlarm()
     {
         buzzer.stopBuzzer();
+        buzzerFlag=0;
     }
 }
