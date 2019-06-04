@@ -18,4 +18,7 @@ public class Random_Number_Generator {
     {
         return random.nextInt(modeNum)+1;
     }
+    public int getModeNum() {
+        return modeNum;
+    }
 }

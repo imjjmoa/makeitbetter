@@ -41,13 +41,16 @@ public class Alarm_Manager {
         isset = 8;
         alarm[armindex].activate();
     }
-    private void selectAlarm(int check) {
+    public void selectAlarm(int check) {
         if (check == 1) up();
         if (check == 2) down();
         if (check == 3) {
             alarm[armindex].activate();
         }
         dis = alarm[armindex].getInform();
+    }
+    public int armindex_getter(){
+        return this.armindex;
     }
 
     public void setAlarm(int check) {

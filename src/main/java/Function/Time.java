@@ -57,15 +57,15 @@ public class Time {
         setTime();
         isSet = 8;
     }
-    private void timesetMode(int input){
+    public void timesetMode(int input){
         if(setNow==0){
             if(input==1) month = (month%12)+1; // up이면 월 증가;
             else if(input==2) month = ((month+10)%12)+1; // down이면 월 감소;
             else if(input==3) setNow=(setNow+1)%5;
         }
         else if(setNow==1){
-            if(input==1) date = (date)%monthDate[month]+1; // up이면 일 증가;
-            else if(input==2) date = (date+monthDate[month]-2)%date+monthDate[month]+1; // down이면 일 감소;
+            if(input==1) date = (date)%monthDate[month-1]+1; // up이면 일 증가;
+            else if(input==2) date = (date+monthDate[month-1]-2)%monthDate[month-1]+1; // down이면 일 감소;
             else if(input==3) setNow=(setNow+1)%5;
         }
         else if(setNow==2){
@@ -84,7 +84,7 @@ public class Time {
             else if(input==3) setNow=(setNow+1)%5;
         }
     }
-    private void updateTime(){
+    public void updateTime(){
         int[] clock = system_clock.getClock();
         month = clock[0];
         date =  clock[1];
@@ -108,5 +108,11 @@ public class Time {
         dis[5]=date;
         dis[6]=day;
         return dis;
+    }
+    public int hour_getter(){
+        return this.hour;
+    }
+    public void setNow_setter(int setNow){
+        this.setNow=setNow;
     }
 }

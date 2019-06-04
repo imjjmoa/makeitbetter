@@ -41,7 +41,7 @@ public class Dice {
         isSet = 8;
         disNum = 0;
     }
-    private void setDice(int check) {
+    public void setDice(int check) {
         if (check == 1 || check == 2) changeDice(); // up이나 down버튼 누르면 다이스 개수 변경
         disNum = diceNum;
     }
@@ -49,15 +49,14 @@ public class Dice {
     private void changeDice() {
         if (diceNum == 1) {
             diceNum++;
-            random.setModeNum(12);
         } else {
             diceNum--;
-            random.setModeNum(6);
         }
     }
 
     private void rollDice() {
         randomNumber = random.getRandom();
+        if(diceNum==2)randomNumber += random.getRandom();
         disNum = randomNumber;
     }
 
@@ -65,5 +64,12 @@ public class Dice {
         dis[3] = disNum;
         dis[6] = isSet;
         return dis;
+    }
+    public int getdisNum(){
+        return disNum;
+    }
+
+    public int getdiceNum(){
+        return diceNum;
     }
 }

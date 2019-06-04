@@ -65,7 +65,7 @@ public class Timer
         isSet=7;
         setNow=0;
     }
-    private void changeTimer(int input){
+    public void changeTimer(int input){
         if(setNow==0) {
             if(input==1)setHour=(setHour+1)%24;
             else if(input==2)setHour=(setHour+23)%24;
@@ -81,6 +81,12 @@ public class Timer
             else if(input==2)setSec=(setSec+59)%60;
             else if(input==3)setNow=0;
         }
+    }
+    public int setNow_getter(){
+        return this.setNow;
+    }
+    public void setNow_setter(int setNow){
+        this.setNow=setNow;
     }
     public int getBuzzerFlag() //위에서 buzzerFlag 값을 가져가는 getter
     {
@@ -107,6 +113,9 @@ public class Timer
         minute = arr[1];
         sec = arr[2];
     }
+    public int hour_getter(){
+        return this.hour;
+    }
 
     public void startTimer()
     {
@@ -121,6 +130,9 @@ public class Timer
         sc.Flag();
         sc = new System_Clock2(hour, minute, sec,this);
         updateTimer();
+    }
+    public int isRun_getter(){
+        return this.isRun;
     }
 
     public void resetTimer()

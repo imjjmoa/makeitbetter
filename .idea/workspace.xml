@@ -7,9 +7,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f48d1b-fca9-403e-bdfa-fbb605ae19a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Function/Alarm_ManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Function/Stop_WatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Function/Alarm_Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Function/Alarm_Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Function/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Function/Dice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Function/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Function/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Function/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Function/Timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/GUI$MyActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/GUI$MyActionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Manage/Change_Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Manage/Change_Mode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/System_Support/Random_Number_Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/System_Support/Random_Number_Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Function/DiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Function/DiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Function/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Function/TimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Function/TimerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Function/TimerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/GUI/GUITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/GUI/GUITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Manage/Change_ModeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Manage/Change_ModeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/System_Support/Random_Number_GeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/System_Support/Random_Number_GeneratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/Alarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/Alarm_Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/Alarm_Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/RR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/RR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Function/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Function/Timer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Manage/Select_Mode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Manage/Select_Mode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Function/AlarmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Function/AlarmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Function/DiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Function/DiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Function/RRTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Function/RRTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Function/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Function/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Function/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Function/TimerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GUI/GUITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GUI/GUITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Manage/Change_ModeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Manage/Change_ModeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/System_Support/Random_Number_GeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/System_Support/Random_Number_GeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/System_Support/System_ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/System_Support/System_ClockTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,41 +93,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Function/Alarm_Manager.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            <state relative-caret-position="812">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
-                <element signature="e#1808#1809#0" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
+                <element signature="e#3319#3320#0" expanded="true" />
+                <element signature="e#3346#3347#0" expanded="true" />
+                <element signature="e#3376#3377#0" expanded="true" />
+                <element signature="e#3405#3406#0" expanded="true" />
+                <element signature="e#3432#3433#0" expanded="true" />
+                <element signature="e#3458#3459#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="304">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Function/Alarm.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/System_Support/System_ClockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-380">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state relative-caret-position="190">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/GUI.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Function/Stop_WatchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="107" column="37" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
+            <state relative-caret-position="171">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/System_Support/Random_Number_GeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Function/DiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Function/RRTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,46 +170,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/System_Clock.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Function/TimerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/Buzzer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#894#895#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+            <state relative-caret-position="-19">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,10 +182,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Function/Timer.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Function/TimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            <state relative-caret-position="152">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GUI/GUITest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,22 +228,32 @@
         <option value="$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/Function/AlarmTest.java" />
         <option value="$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Function/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/RR.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Manage/Select_Mode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java" />
         <option value="$PROJECT_DIR$/src/main/java/System_Support/System_Clock.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Function/AlarmTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Function/DiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/Time.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/Dice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/Timer.java" />
         <option value="$PROJECT_DIR$/src/main/java/System_Support/System_Clock2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/Alarm_Manager.java" />
         <option value="$PROJECT_DIR$/src/main/java/System_Support/Buzzer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Function/Alarm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java" />
         <option value="$PROJECT_DIR$/src/main/java/GUI/GUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Timer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GUI/GUITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Manage/Change_ModeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/System_Support/Random_Number_GeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Alarm_Manager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/Alarm_ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/System_Support/System_ClockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Alarm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/AlarmTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Manage/Select_Mode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Dice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/TimeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Time.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/RR.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/RRTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/DiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Function/Stop_WatchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java" />
       </list>
     </option>
   </component>
@@ -201,6 +261,7 @@
     <option name="width" value="960" />
     <option name="height" value="1035" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -214,24 +275,6 @@
             <path>
               <item name="team2" type="b2602c69:ProjectViewProjectNode" />
               <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="team2_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="team2" type="b2602c69:ProjectViewProjectNode" />
@@ -265,7 +308,68 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="System_Support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="System_Support" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,10 +398,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Function" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -316,38 +420,85 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Function.Main" />
-      <module name="Watch.main" />
+  <component name="RunManager" selected="JUnit.All in Watch.test">
+    <configuration name="All in Watch.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Watch.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiceTest.setDice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Watch.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Function" />
+      <option name="MAIN_CLASS_NAME" value="Function.DiceTest" />
+      <option name="METHOD_NAME" value="setDice" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainclass" />
-      <module name="cbvs.sdf.main" />
+    <configuration name="RRTest.playRR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Watch.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Function" />
+      <option name="MAIN_CLASS_NAME" value="Function.RRTest" />
+      <option name="METHOD_NAME" value="playRR" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="team2.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/team2_jar/team2.jar" />
-      <method v="2" />
+    <configuration name="RRTest.setRR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Watch.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Function" />
+      <option name="MAIN_CLASS_NAME" value="Function.RRTest" />
+      <option name="METHOD_NAME" value="setRR" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stop_WatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Watch.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Function" />
+      <option name="MAIN_CLASS_NAME" value="Function.Stop_WatchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JAR Application.team2.jar" />
-        <item itemvalue="Application.mainclass" />
+        <item itemvalue="JUnit.All in Watch.test" />
+        <item itemvalue="JUnit.Stop_WatchTest" />
+        <item itemvalue="JUnit.RRTest.playRR" />
+        <item itemvalue="JUnit.RRTest.setRR" />
+        <item itemvalue="JUnit.DiceTest.setDice" />
       </list>
     </recent_temporary>
   </component>
@@ -411,14 +562,59 @@
       <option name="project" value="LOCAL" />
       <updated>1559525623007</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="GUI 업데이트">
+      <created>1559570614771</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559570614771</updated>
+    </task>
+    <task id="LOCAL-00009" summary="GUI 업데이트">
+      <created>1559570642592</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559570642592</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TimerTest_resetTimer - 2019.06.04 at 18h 17m 33s.xml">
+      <configuration name="TimerTest.resetTimer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GUITest_GUI_btn - 2019.06.04 at 18h 28m 21s.xml">
+      <configuration name="GUITest.GUI_btn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Alarm_ManagerTest_selectAlarm - 2019.06.04 at 18h 46m 54s.xml">
+      <configuration name="Alarm_ManagerTest.selectAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Select_ModeTest_run - 2019.06.04 at 18h 51m 46s.xml">
+      <configuration name="Select_ModeTest.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiceTest_changeDice - 2019.06.04 at 18h 54m 53s.xml">
+      <configuration name="DiceTest.changeDice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiceTest_setDice - 2019.06.04 at 18h 54m 59s.xml">
+      <configuration name="DiceTest.setDice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Watch_test - 2019.06.04 at 18h 56m 36s.xml">
+      <configuration name="All in Watch.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RRTest_setRR - 2019.06.04 at 19h 00m 53s.xml">
+      <configuration name="RRTest.setRR" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RRTest_playRR - 2019.06.04 at 19h 01m 45s.xml">
+      <configuration name="RRTest.playRR" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RRTest_playRR - 2019.06.04 at 19h 01m 56s.xml">
+      <configuration name="RRTest.playRR" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27651006" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28053692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +623,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.235461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,7 +650,8 @@
     <MESSAGE value="jar파일 추가했습니다" />
     <MESSAGE value="최종 수정입니다" />
     <MESSAGE value="최신화!" />
-    <option name="LAST_COMMIT_MESSAGE" value="최신화!" />
+    <MESSAGE value="GUI 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI 업데이트" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/testclass.java" />
@@ -476,79 +673,6 @@
     <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/main/java/Function/Main.java" />
     <entry file="file://$PROJECT_DIR$/SMA_Team2_Watch/src/test/java/System_Support/System_ClockTest.java" />
     <entry file="file://$PROJECT_DIR$/aa/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/GUI/GUITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Manage/Change_ModeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/System_Support/Random_Number_GeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/System_Support/System_ClockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Function/TimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Function/TimerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Function/RRTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Function/AlarmTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="29" column="1" lean-forward="true" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Function/DiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/System_Clock2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -556,46 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Time.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="61" column="60" lean-forward="true" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
-          <folding>
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Select_Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Dice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Function/RR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -611,29 +699,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/System_Clock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Function/Timer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        <state relative-caret-position="2381">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#2088#2089#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+            <element signature="e#2163#2164#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2870#2871#0" expanded="true" />
+            <element signature="e#2902#2903#0" expanded="true" />
+            <element signature="e#3203#3204#0" expanded="true" />
+            <element signature="e#3235#3236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2779">
+          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="75" column="13" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/Random_Number_Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Function/Alarm_Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        <state relative-caret-position="-627">
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
           <folding>
+            <element signature="e#1393#1394#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
             <element signature="e#1808#1809#0" expanded="true" />
             <element signature="e#1839#1840#0" expanded="true" />
           </folding>
@@ -642,49 +775,194 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Function/Alarm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        <state relative-caret-position="310">
+          <caret line="138" column="27" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
+          <folding>
+            <element signature="e#3661#3662#0" expanded="true" />
+            <element signature="e#3685#3686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Select_Mode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="e#3194#3195#0" expanded="true" />
+            <element signature="e#3226#3227#0" expanded="true" />
+            <element signature="e#3269#3270#0" expanded="true" />
+            <element signature="e#3303#3304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1621#1622#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/Alarm_ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Manage/Change_ModeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/AlarmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Function/RR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
+            <element signature="e#1779#1780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/DiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/RRTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/TimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GUI/GUITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Manage/Select_ModeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/System_Support/Random_Number_GeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/System_Support/System_ClockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Function/Stop_Watch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Function/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/System_Support/System_Clock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Manage/Change_Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        <state relative-caret-position="812">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3319#3320#0" expanded="true" />
+            <element signature="e#3346#3347#0" expanded="true" />
+            <element signature="e#3376#3377#0" expanded="true" />
+            <element signature="e#3405#3406#0" expanded="true" />
+            <element signature="e#3432#3433#0" expanded="true" />
+            <element signature="e#3458#3459#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/GUI.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Function/Stop_WatchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="107" column="37" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>

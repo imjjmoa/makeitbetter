@@ -12,6 +12,11 @@ public class Change_Mode extends GUI {
     private Time time;
     private Timer timer;
     private int input=0;
+
+    public int getMode() {
+        return mode;
+    }
+
     private int mode; // 0 : select menu, 1 : alarm, 2:Dice
 
     public Change_Mode() {

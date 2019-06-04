@@ -60,4 +60,10 @@ public class Select_Mode {
     public int getCount(){
         return count;
     }
+    public int now_getter(){
+        return this.now;
+    }
+    public int [] mode_getter(){
+        return this.mode;
+    }
 }

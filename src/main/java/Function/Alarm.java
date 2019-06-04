@@ -136,4 +136,7 @@ public class Alarm {
         buzzer.stopBuzzer();
         buzzerFlag=0;
     }
+    public int state_getter(){
+        return this.state;
+    }
 }

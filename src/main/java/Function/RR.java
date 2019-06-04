@@ -44,12 +44,15 @@ public class RR {
     private void exitSetMode(){
         isSet =8;
     }
-    private void setRR(int check){
+    public void setRR(int check){
         if (check == 1) up();
         else if (check == 2) down();
         disNum=ratio;
     }
 
+    public int disNum_getter(){
+        return this.disNum;
+    }
     private void up()
     {
         if(ratio<10) {
@@ -68,7 +71,7 @@ public class RR {
         else
             ratio=10;
     }
-    private void playRR()
+    public void playRR()
     {
         random.setModeNum(ratio);
         int ranNum = random.getRandom();

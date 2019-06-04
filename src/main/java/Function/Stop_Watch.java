@@ -27,17 +27,26 @@ public class Stop_Watch {
     }
 
     private void Record() {
+        updateSW();
         if (top < 2) {
-            updateSW();
             top++;
             record[top][0] = hour;
             record[top][1] = minute;
             record[top][2] = sec;
-
+        }
+        else {
+            for(int i=0;i<2;i++){
+                record[i][0]=record[i+1][0];
+                record[i][1]=record[i+1][1];
+                record[i][2]=record[i+1][2];
+            }
+            record[top][0] = hour;
+            record[top][1] = minute;
+            record[top][2] = sec;
         }
     }
 
-    private int[] getRecord() {
+    public int[] getRecord() {
         if (top2 == 2) {
             top2 = 0;
         } else
@@ -131,5 +140,17 @@ public class Stop_Watch {
         dis[5] = 0;
         dis[6] = 8;
         return dis;
+    }
+    public int hour()
+    {
+        return hour;
+    }
+    public int minute()
+    {
+        return minute;
+    }
+    public int sec()
+    {
+        return sec;
     }
 }
