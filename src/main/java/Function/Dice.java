@@ -63,7 +63,8 @@ public class Dice {
     public int[] getDis() {
         dis[3] = disNum;
         dis[6] = isSet;
-        return dis;
+        int [] arr=new int[]{dis[0],dis[1],dis[2],dis[3],dis[4],dis[5],dis[6]};
+        return arr;
     }
     public int getdisNum(){
         return disNum;

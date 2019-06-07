@@ -55,7 +55,8 @@ public class Select_Mode {
         dis[5] = 0;
         if (mode[now] == 0) dis[6] = 10; //off
         else if (mode[now] == 1) dis[6] = 9; //on
-        return dis;
+        int [] arr=new int[]{dis[0],dis[1],dis[2],dis[3],dis[4],dis[5],dis[6]};
+        return arr;
     }
     public int getCount(){
         return count;
@@ -64,6 +65,7 @@ public class Select_Mode {
         return this.now;
     }
     public int [] mode_getter(){
-        return this.mode;
+        int [] arr=new int[]{mode[0],mode[1],mode[2],mode[3],mode[4],mode[5]};
+        return arr;
     }
 }
