@@ -4,7 +4,6 @@ public class Alarm {
     private int [] time=new int[3];                //0=hour,1=min,2=sec
     private int cursor;
     private int state;
-    private int [] inform;
     //변수1-------------------------------------------------
     private Time t;
     private int[] startTime = new int[3];
@@ -25,9 +24,8 @@ public class Alarm {
         buzzer = null;
     }
     public int [] getInform(){
-        inform=new int[]{2,time[0],time[1],time[2],1,1,state};
-        int [] arr=new int[]{2,time[0],time[1],time[2],1,1,state};
-        return arr;
+        int [] inform=new int[]{2,time[0],time[1],time[2],1,1,state};
+        return inform;
     }
     private int[] getGapTime(int[] t1, int[] t2) //t1 이 알람설정된시간 t2가 현재시간
     {
