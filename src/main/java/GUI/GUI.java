@@ -117,19 +117,19 @@ public class GUI extends JFrame{
         this.mode.setFont(font);
         this.mode.setOpaque(true);
         this.mode.setBackground(new Color(0,0,0,0));
-        this.mode.setBounds(230,230,180,40);
+        this.mode.setBounds(230,230,200,40);
         this.mode.setForeground(Color.black);
 
         this.time.setFont(font);
         this.time.setOpaque(true);
         this.time.setBackground(new Color(0,0,0,0));
-        this.time.setBounds(230,260,180,40);
+        this.time.setBounds(230,260,200,40);
         this.time.setForeground(Color.black);
 
         this.day.setFont(font);
         this.day.setOpaque(true);
         this.day.setBackground(new Color(0,0,0,0));
-        this.day.setBounds(230,290,180,40);
+        this.day.setBounds(230,290,200,40);
         this.day.setForeground(Color.black);
     }
 
