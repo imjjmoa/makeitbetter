@@ -48,7 +48,7 @@ public class Alarm {
         {
             state=10;
             if(sc != null) {
-                sc.Flag();
+                sc.setFlag();
                 sc = null;
             }
         }

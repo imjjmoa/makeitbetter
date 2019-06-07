@@ -115,7 +115,7 @@ public class Stop_Watch {
 
     private void pauseSW() {
         updateSW();
-        sc.Flag();
+        sc.setFlag();
         sc = new System_Clock( 0, 0, 0, hour, minute, sec);
         isrun = 0;
     }
@@ -125,7 +125,7 @@ public class Stop_Watch {
         minute = 0;
         sec = 0;
         record = new int[3][3];
-        sc.Flag();
+        sc.setFlag();
         sc = new System_Clock( 0, 0, 0, 0, 0, 0);
         top = -1;
         top2 = -1;

@@ -32,7 +32,7 @@ public class System_Clock implements Runnable {
         mlimit[12] = 31;
     }
 
-    public void Flag() {
+    public void setFlag() {
         flag = 0;
     }
 

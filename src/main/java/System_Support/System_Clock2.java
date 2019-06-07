@@ -29,7 +29,7 @@ public class System_Clock2 implements Runnable {
         sflag = 1;
     }
 
-    public void Flag() {
+    public void setFlag() {
         flag = 0;
     }
 

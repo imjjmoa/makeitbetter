@@ -127,7 +127,7 @@ public class Timer
     public void pauseTimer()
     {
         isRun=0;
-        sc.Flag();
+        sc.setFlag();
         sc = new System_Clock2(hour, minute, sec,this);
         updateTimer();
     }

@@ -14,8 +14,7 @@ public class Time {
     private int setNow;
     public Time(){
         system_clock = new System_Clock(1,1,0,0,0,0);
-        Thread t = new Thread(system_clock,"내부클럭");
-        t.start();
+        runThread();
         month = 1;
         date = 1;
         day = 1;
@@ -25,6 +24,11 @@ public class Time {
         isSet=8;
         dis = new int[]{0,hour,minute,second,month,date,day};
         monthDate = new int[]{31,28,31,30,31,30,31,31,30,31,30,31};
+    }
+
+    private void runThread(){
+        Thread t = new Thread(system_clock,"내부클럭");
+        t.start();
     }
 
     public int[] getSystemClock() {
@@ -95,7 +99,7 @@ public class Time {
     }
 
     private void setTime(){
-        system_clock.Flag();
+        system_clock.setFlag();
         system_clock = new System_Clock(month,date,day,hour,minute,0);
         Thread t = new Thread(system_clock,"내부클럭");
         t.start();
