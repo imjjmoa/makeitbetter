@@ -26,7 +26,8 @@ public class Alarm {
     }
     public int [] getInform(){
         inform=new int[]{2,time[0],time[1],time[2],1,1,state};
-        return inform;
+        int [] arr=new int[]{2,time[0],time[1],time[2],1,1,state};
+        return arr;
     }
     private int[] getGapTime(int[] t1, int[] t2) //t1 이 알람설정된시간 t2가 현재시간
     {
