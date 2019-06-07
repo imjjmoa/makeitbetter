@@ -42,21 +42,13 @@ public class GUI extends JFrame{
         public void mouseClicked(MouseEvent e){
         }
         public void mousePressed(MouseEvent e) {
-            if(e.isMetaDown()){
-
-            }
-            else
-            {
+            if(!e.isMetaDown()){
                 btn_press=System.currentTimeMillis();
             }
         }
         public void mouseReleased(MouseEvent e) {
             JButton b = (JButton)e.getSource();
-            if(e.isMetaDown()){
-
-            }
-            else
-            {
+            if(!e.isMetaDown()){
                 btn_release=System.currentTimeMillis();
                 btn_time=btn_release-btn_press;
                 if(b.getText().equals("UP")) {
