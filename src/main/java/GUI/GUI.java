@@ -1,10 +1,8 @@
 package GUI;
 
 import java.awt.*;
-import java.awt.Image;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-import java.awt.image.BufferedImage;
 import javax.swing.*;
 
 public class GUI extends JFrame{
